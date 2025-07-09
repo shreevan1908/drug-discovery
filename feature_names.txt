@@ -1,0 +1,23 @@
+Mannhold LogP
+Aromatic Atoms Count
+Aromatic Bonds Count
+Element Count
+Bond Count
+Eccentric Connectivity Index
+Fragment Complexity
+Hydrogen Bond Acceptors
+Hydrogen Bond Donors
+Largest Chain
+Largest Pi Chain
+Petitjean Number
+Rotatable Bonds Count
+Lipinski's Rule of Five
+Vertex adjacency information magnitude
+XLogP
+Zagreb Index
+Formal Charge
+Formal Charge (pos)
+Formal Charge (neg)
+Heavy Atoms Count
+SP3 Character
+Rotatable Bonds Count (non terminal)
